@@ -1,0 +1,7 @@
+create resume template using microsoft word styles:
+===================================================
+
+- Type Generic information (Name, Email and phone number).
+- Put headlines.
+- Create style for headlines.
+- Create style for normal sentence.
