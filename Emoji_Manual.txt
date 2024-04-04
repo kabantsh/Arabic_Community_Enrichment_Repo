@@ -1,20 +1,34 @@
 Emoji Manual:
 ========================
+Her is an Emoji Manual for all posts emojis in order to standardize writing posts and avoiding mind map conflict.
 
+Generic Terms:
+##############
+Idea or important hint💡
+Negation (No) 🚫
 Resume or CV 📄📄
 Picture or image 🖼️
 Writing ✍🏾
 Artificial Intelligence  🧠🦾
 Decreasing ( graph down) 📉
 Increasing (Graph up) 📈
+Map 🗺️
+Location 🗺️📍
+Pin 📌
+Ramadan Kareem 🌛
+Continuous Importants 🔄💡
+
+
+
+Technical Terms:
+################
 Container 🫙
-Virtualization ## brown box ##
+Virtualization 📦
 Cloud Computing ☁️
 Computer or system 🖥️
-Idea or important hint💡
 Folder or directory 📂
 Sharing files 🫴🏾🗃️
-God help us to rebuild Sudan💪🏾😎
+God help us to rebuild Sudan💪🏾😎🇸🇩
 
 
 
