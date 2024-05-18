@@ -44,7 +44,6 @@ Verify or Test 🔬🔍✅
 Backup Systems 🎒🖥️
 Service 🛠️
 Settings ⚙️
-Domain Name System (DNS) 🌐📒
 Authentication 🔐
 Replication 🔁
 Users 👤 
@@ -57,6 +56,10 @@ Plugin 🧩
 
 Storage Media 🛢️💾🪣
 Magnetic Tape 📼 
+
+Network 🌐
+Network Traffic 🚦🌐
+Domain Name System (DNS) 🌐📒
 
 
 
