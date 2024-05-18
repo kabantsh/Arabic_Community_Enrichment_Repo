@@ -46,6 +46,10 @@ Settings ⚙️
 Domain Name System (DNS) 🌐📒
 Authentication 🔐
 Replication 🔁
+Users 👤 
+Groups 👥
+Computes🖥️ 
+Devices 🖥️💻📱
 Group Policy 👥🔐
 
 
