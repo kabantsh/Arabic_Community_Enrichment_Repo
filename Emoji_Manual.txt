@@ -25,7 +25,11 @@ Password *️⃣*️⃣*️⃣
 Junior or Fresh graduate 👨🏾‍🎓
 Senior or Expert 🤵🏾‍♂️
 Job 💼
+Notification 🔔
+Identity 🪪 or 🆔 
+Hazard or caution ⚠️
 
+ 
 
 Technical Terms:
 ################
@@ -37,6 +41,14 @@ Folder or directory 📂
 Sharing files 🫴🏾🗃️
 Verify or Test 🔬🔍✅
 Backup Systems 🎒🖥️
+Service 🛠️
+Settings ⚙️
+Domain Name System (DNS) 🌐📒
+Authentication 🔐
+Replication 🔁
+Group Policy 👥🔐
+
+
 
 Unsorted Items:
 ###############
