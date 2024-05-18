@@ -52,6 +52,11 @@ Computes🖥️
 Devices 🖥️💻📱
 Group Policy 👥🔐
 
+Plugin 🧩
+
+Storage Media 🛢️💾🪣
+Magnetic Tape 📼 
+
 
 
 Unsorted Items:
