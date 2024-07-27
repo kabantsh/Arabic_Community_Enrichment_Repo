@@ -64,6 +64,8 @@ Network Traffic 🚦🌐
 Domain Name System (DNS) 🌐📒
 
 
+🗡️ Attack
+🔍🗡️ Reconnaissance Attack
 
 Unsorted Items:
 ###############
