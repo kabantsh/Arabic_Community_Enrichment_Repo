@@ -61,6 +61,7 @@ Magnetic Tape 📼
 RAID 0 🛢️0️⃣
 RAID 1 🛢️1️⃣
 RAID 10 🛢️1️⃣0️⃣
+Mirror 🪞
 SAN Switch 🛢️↔️
 
 
@@ -69,6 +70,10 @@ Network 🌐
 Network Traffic 🚦🌐
 Domain Name System (DNS) 🌐📒
 
+Electromagnetic Interference ⚡ 🧲 ✴️
+Twisted pairs 🪢
+Shielded Twisted Pairs STP (🛡️🪢)
+Unshielded Twisted Pairs UTP (🛡️❌🪢)
 
 🗡️ Attack
 🔍🗡️ Reconnaissance Attack
