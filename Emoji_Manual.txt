@@ -57,7 +57,13 @@ Malware Software 💽👾+💽🦠
 Plugin 🧩
 
 Storage Media 🛢️💾🪣
-Magnetic Tape 📼 
+Magnetic Tape 📼
+RAID 0 🛢️0️⃣
+RAID 1 🛢️1️⃣
+RAID 10 🛢️1️⃣0️⃣
+SAN Switch 🛢️↔️
+
+
 
 Network 🌐
 Network Traffic 🚦🌐
